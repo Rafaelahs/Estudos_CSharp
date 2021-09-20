@@ -1,0 +1,14 @@
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\bin\Debug\netcoreapp3.1\Ucurso.exe
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\bin\Debug\netcoreapp3.1\Ucurso.deps.json
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\bin\Debug\netcoreapp3.1\Ucurso.runtimeconfig.json
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\bin\Debug\netcoreapp3.1\Ucurso.runtimeconfig.dev.json
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\bin\Debug\netcoreapp3.1\Ucurso.dll
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\bin\Debug\netcoreapp3.1\Ucurso.pdb
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.dll
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.pdb
+C:\Users\rafae\Downloads\Uc#\Ucurso\Ucurso\obj\Debug\netcoreapp3.1\Ucurso.genruntimeconfig.cache
